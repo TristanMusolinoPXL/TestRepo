@@ -48,6 +48,8 @@
                 Console.WriteLine($"{hours} uren");
                 Console.WriteLine($"{minutes} minuten");
                 Console.WriteLine($"{seconds} seconden");
+
+            Console.WriteLine("u ma");
             }
         }
     }
